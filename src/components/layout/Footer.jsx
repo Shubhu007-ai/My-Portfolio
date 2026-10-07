@@ -121,7 +121,7 @@ export function Footer() {
         <div className="pt-6 border-t border-[#E4E1D9] flex flex-col sm:flex-row items-center justify-between text-xs text-[#8A8A8A] gap-3">
           <p>© {currentYear} Shubham Patel</p>
           <p className="font-mono text-[#8A8A8A] text-[11px]">
-            Built with React
+            Made with Love💜
           </p>
         </div>
       </div>
